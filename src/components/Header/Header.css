@@ -12,10 +12,10 @@ body{
 	text-align: left;
 }
 .logo-area a {
-	font-size: 45px;
-	color: #FFF;
-	font-family: 'Akronim', cursive;
-	text-decoration: navajowhite;
+    font-size: 45px;
+    color: #FFF;
+    text-decoration: navajowhite;
+    font-weight: bold;
 }
 .menubar-area ul {
 	display: flex;
