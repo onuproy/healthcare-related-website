@@ -1,0 +1,22 @@
+.doctors-area {
+	padding: 90px 0;
+    background:rgb(244, 247, 254) !important;
+}
+.doctors-single-item {
+	background: #FFF;
+	padding-bottom: 20px;
+	border-radius: 15px 15px 0 0;
+    margin-bottom:30px;
+}
+.doctors-single-item img {
+	width: 100%;
+}
+.doctors-single-item h2 {
+	font-size: 25px;
+	padding-top: 20px;
+	margin: 0;
+}
+.doctors-single-item p {
+	font-size: 16px;
+	margin-bottom: 0;
+}

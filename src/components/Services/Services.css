@@ -1,0 +1,60 @@
+.Service-area {
+	padding: 90px 0;
+	background:#fdfdfd !important;
+}
+.title h1 {
+	font-size: 45px;
+	font-weight: 600;
+	padding-bottom: 30px;
+	color:#0b114a;
+}
+.title p {
+    color: #6643F7;
+    font-size: 30px;
+}
+.single-service-area {
+	background: rgba(255, 255, 255, 0.1);
+	box-shadow: 0px 10px 30px rgba(5, 5, 5, 0.08);
+	padding: 30px;
+	border-radius: 10px;
+	text-align:left;
+	margin:20px 0;
+	cursor: pointer;
+	transition: 0.5s;
+}
+.single-service-area:hover{
+	background:#FFF;
+	transition: 0.5s;
+}
+.single-service-area .icon-area i {
+    width: 65px;
+    height: 65px;
+    background: #FF408B;
+    color: #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 27px;
+    border-radius: 8px;
+}
+.single-service-area h2 {
+	font-size: 25px;
+	color: #0b114a;
+	text-transform: capitalize;
+	font-weight: 500;
+	padding: 15px 0 0px 0;
+}
+.single-service-area p {
+	color: #0b114a;
+	font-size: 16px;
+}
+.single-service-area button i {
+	margin-right: 6px;
+}
+.single-service-area button {
+    background: transparent !important;
+    border: 0;
+    color: #6643F7;
+    font-size: 16px;
+    margin-top: 9px;
+}

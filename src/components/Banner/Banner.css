@@ -1,0 +1,61 @@
+.banner-area {
+	padding: 90px 0 0 0;
+}
+.content-area {
+	padding-top: 115px;
+}
+.doctor-image {
+	margin-right: -90px;
+}
+.doctor-image img {
+	width: 100%;
+}
+.about-area {
+	padding: 60px 0;
+}
+.content-area h2 {
+	font-size: 42px;
+	font-weight: 700;
+	text-align: left;
+    margin-bottom:20px;
+}
+.content-area {
+	text-align: left;
+}
+.about-area .row {
+	align-items: center;
+}
+.content-area p {
+	font-size: 16px;
+	text-align: left;
+}
+.content-area button {
+	background: #6C63FF;
+	border: 0;
+	color: #FFF;
+	padding: 10px 30px;
+	border-radius: 9px;
+	margin-top: 20px;
+}
+a{
+	outline:none !important;
+}
+a:focus{
+	box-shadow: none !important;
+}
+.button-area {
+	margin-top: 20px;
+}
+.button-area a {
+	padding: 15px 30px;
+}
+a.btn.btn-success {
+    background: #6643F7 !important;
+}
+.btn-outline-success {
+    color: #6643F7;
+    border-color: #6643F7;
+}
+.btn-outline-success:hover {
+	background-color: #6643F7;
+}

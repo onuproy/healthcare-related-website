@@ -1,0 +1,79 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.header-area {
+	background: #6643F7;
+	padding: 10px 0;
+}
+.header-area .row {
+	align-items: center;
+}
+.logo-area {
+	text-align: left;
+}
+.logo-area a {
+	font-size: 45px;
+	color: #FFF;
+	font-family: 'Akronim', cursive;
+	text-decoration: navajowhite;
+}
+.menubar-area ul {
+	display: flex;
+	justify-content: center;
+	list-style: none;
+    margin:0;
+	padding:0;
+}
+.menubar-area ul li {
+	margin-left: 30px;
+}
+.menubar-area ul li a {
+	color: #FFF;
+	font-size: 16px;
+	text-decoration: none !important;
+}
+.login-area {
+	float:right ;
+}
+.found-area {
+	padding: 60px;
+}
+.found-area img {
+	max-width: 445px;
+}
+.user-information {
+	display: flex;
+	align-items: center;
+}
+.user-information h3 {
+	font-size: 12px;
+	color: #FFF;
+	margin: 0;
+	padding-right: 6px;
+}
+@media all and (max-width:767px){
+	.login-area {
+		position: absolute;
+		top: 28px;
+		right: 15px;
+	}
+	.content-area {
+		padding-top: 0 !important;
+	}
+	.content-area h2 {
+		font-size: 40px !important;
+	}
+	.doctor-image {
+		margin-right: 0 !important;
+		margin-top:30px !important;
+	}
+	.menubar-area ul li {
+		margin: 6px 15px !important;
+	}
+	.title h1 {
+		font-size: 40px !important;
+	}
+	.footer-top-area ul {
+		padding-left: 0 !important;
+	}
+}

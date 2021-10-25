@@ -1,0 +1,67 @@
+[
+    {
+        "id": "01",
+        "serviceName": "dental sugery",
+        "icon": "fas fa-tooth",
+        "shortdescription": "Forth unto night their foubehold night theiearth .",
+        "title": "Private General Surgery Care",
+        "fulldescriptions": "Unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipquae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam volupt quivoluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesci Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "img": "http://shemolroy.com/developer/leigh.png"
+    },
+    {
+        "id": "02",
+        "serviceName": "orthopaedic",
+        "icon": "fas fa-bone",
+        "shortdescription": "Forth unto night their foubehold night theiearth .",
+        "fulldescriptions": "5",
+        "img": "http://shemolroy.com/developer/christopher.png"
+    },
+    {
+        "id": "03",
+        "serviceName": "general surgery",
+        "icon": "fas fa-user-nurse",
+        "shortdescription": "Forth unto night their foubehold night theiearth .",
+        "fulldescriptions": "5",
+        "img": "http://shemolroy.com/developer/stephen.png"
+    },
+    {
+        "id": "04",
+        "serviceName": "neurology",
+        "icon": "fas fa-lungs",
+        "shortdescription": "Forth unto night their foubehold night theiearth .",
+        "fulldescriptions": "4.6",
+        "img": "http://shemolroy.com/developer/coy.png"
+    },
+    {
+        "id": "05",
+        "serviceName": "dermatology",
+        "icon": "fas fa-capsules",
+        "shortdescription": "Forth unto night their foubehold night theiearth .",
+        "fulldescriptions": "5",
+        "img": "http://shemolroy.com/developer/eman.png"
+    },
+    {
+        "id": "06",
+        "serviceName": "labrotory testing",
+        "icon": "fas fa-vials",
+        "shortdescription": "Forth unto night their foubehold night theiearth .",
+        "fulldescriptions": "5",
+        "img": "http://shemolroy.com/developer/vimal.png"
+    },
+    {
+        "id": "07",
+        "serviceName": "women's care",
+        "icon": "fas fa-heartbeat",
+        "shortdescription": "Forth unto night their foubehold night theiearth .",
+        "fulldescriptions": "5",
+        "img": "http://shemolroy.com/developer/gaia.png"
+    },
+    {
+        "id": "08",
+        "serviceName": "CT scan service",
+        "icon": "fas fa-procedures",
+        "shortdescription": "Forth unto night their foubehold night theiearth .",
+        "fulldescriptions": "4.9",
+        "img": "http://shemolroy.com/developer/marco.png"
+    }
+]

@@ -1,0 +1,32 @@
+.login-form-area {
+	max-width: 490px;
+	margin: auto;
+	margin-top: 90px;
+	margin-bottom: 90px;
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+	padding: 30px 30px;
+}
+.login-form-area form input {
+	width: 100%;
+	margin-bottom: 15px;
+	height: 48px;
+	padding: 0 15px;
+	border: 1px solid #0b114a;
+	border-radius: 6px;
+}
+.login-form-area .submit-button {
+	background: #0b114a;
+	width: 100% !important;
+}
+.sign-button {
+	height: 48px;
+	width: 100%;
+	background: transparent;
+	border: 1px solid #0b114a;
+	border-radius: 6px;
+	font-size: 19px;
+	font-weight: 400;
+}
+.sign-button i {
+	margin-right: 6px;
+}
